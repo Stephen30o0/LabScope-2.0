@@ -23,7 +23,7 @@ LabScope is an immersive VR chemistry lab simulator developed in Unity for the O
 *   Oculus Quest 2
 
 ### Project Setup Instructions
-1.  **Clone the repository:** `git clone [Your Repository URL]`
+1.  **Clone the repository:** `git clone https://github.com/Stephen30o0/LabScope-2.0 `
 2.  **Open the project in Unity:** Navigate to the cloned repository folder and open it with Unity Hub.
 3.  **Install Dependencies:**
     *   Open the Unity Package Manager (`Window > Package Manager`).
