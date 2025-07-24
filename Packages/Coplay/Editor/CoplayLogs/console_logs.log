@@ -9694,3 +9694,144 @@ the project name is LabScope and My name is Olurinola Olukorede
 [INFO] State saved successfully
 [INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
 [INFO] State saved successfully
+[WARNING] Clipboard image extraction is not supported on this platform.
+[INFO] [Mode: Agent] User prompt: use my project proposal to write some more content based on it and how i missed or achieved the mark and all that
+
+
+Students will demonstrate the planned functionalities using different testing strategies and submit a link or video on Canvas.
+
+NO DOCUMENTATION REQUIRED!!! 
+
+Testing Results [Screenshots with relevant demos]
+
+Demonstration of the functionality of the product under different testing strategies
+Demonstration of the functionality of the product with different data values
+Performance of the product running on different specifications of hardware or software
+Analysis
+
+Detailed analysis of the results and how they achieved or missed the objectives in the project proposal with the supervisor. 
+Discussion
+
+A detailed discussion on the importance of the milestones and the impact of the results with the supervisor. 
+Recommendations
+
+Some recommendations to the community concerning the application of the product & Future Work with the supervisor. 
+
+Submission /guidelines
+
+You will be given two attempts to be done in the following format.
+
+Attempt 1: Submit a repo with a well-formatted readme file containing:
+Instructions on how to install and run the app (step by step)
+Related files to the project
+A 5-minute video showing the demo of the app ( avoid focusing on sign-up and sign-in functionalities, make sure to focus heavily on core functionalities)
+Link to the deployed Version of the app (or an application package that can be installed - apk, .exe, ... file)
+Attempt 2: Submit a zip file of the repo you submitted in Attempt 1
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Cancelled all functions)
+[INFO] State saved successfully
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] Successfully refreshed access token
+[INFO] State saved successfully
+[INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
+[INFO] State saved successfully
+[INFO] Func: read_file Args: path: README.md
+[ERROR] CoplayError - Error: File not found at path: README.md
+[INFO] Function result: Error: File not found at path: README.md
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Last function executed)
+[INFO] State saved successfully
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
+[INFO] State saved successfully
+[INFO] [Mode: Agent] User prompt: did you uset he project proposal document ive attached
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Cancelled all functions)
+[INFO] State saved successfully
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
+[INFO] State saved successfully
+[INFO] Func: read_file Args: path: README.md
+[ERROR] CoplayError - Error: File not found at path: README.md
+[INFO] Function result: Error: File not found at path: README.md
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Last function executed)
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
+[INFO] State saved successfully
+[INFO] [Mode: Agent] User prompt: if i delete the periodic table scene and main scene in the prepared folder will it affect my labscene
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Cancelled all functions)
+[INFO] State saved successfully
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
+[INFO] State saved successfully
+[INFO] Func: list_files Args: path: Assets/Scenes/Prepared, file_pattern: *.unity
+[ERROR] CoplayError - Error: Directory not found at path: Assets/Scenes/Prepared
+[INFO] Function result: Error: Directory not found at path: Assets/Scenes/Prepared
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Last function executed)
+[INFO] State saved successfully
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Coplay State Change: WaitingForAI -> WaitingForUserToExecuteFunction
+[INFO] State saved successfully
+[INFO] Func: list_files Args: path: Assets/Scenes, file_pattern: *.unity, recursive: true
+[INFO] Listed 8 recursive files and directories matching glob pattern '**/*.unity' in Assets/Scenes. 
+[INFO] Function result: LabAssistantScene.unity
+LabScene.unity
+MainMenuScene.unity
+Menu.unity
+New Scene.unity
+PeriodicTable.unity
+QuizEnvironment.unity
+TestingPhaseLab.unity
+
+
+[INFO] Returned to previous state: WaitingForUserToExecuteFunction -> WaitingForAI (Last function executed)
+[INFO] State saved successfully
+[INFO] Tool outputs: 1
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Returned to previous state: WaitingForAI -> Initialized (Finished running assistant thread)
+[INFO] State saved successfully
+[INFO] [Mode: Agent] User prompt: yes but i got the prefab variant from the objects in the periodic table scene
+[INFO] Coplay State Change: Initialized -> WaitingForAI
+[INFO] State saved successfully
+[INFO] State saved successfully
+[INFO] Returned to previous state: WaitingForAI -> Initialized (Finished running assistant thread)
+[INFO] State saved successfully
+[INFO] AssistantController: Dispose called
+[INFO] FunctionExecutionController: Dispose called
+[INFO] Found git repository in parent at C:\Users\musev\Downloads\BachelorsThesis-UnityLab-main\BachelorsThesis-UnityLab-main\VR
+[INFO] Loaded 0 action records from JSON file.
+[INFO] No MCP servers configuration found
+[INFO] MCP host initialized
+[INFO] Checking for dependencies in: C:\Users\musev\Downloads\BachelorsThesis-UnityLab-main\BachelorsThesis-UnityLab-main\VR\Packages\Coplay\Editor\Binaries
+[INFO] Executable at C:\Users\musev\Downloads\BachelorsThesis-UnityLab-main\BachelorsThesis-UnityLab-main\VR\Packages\Coplay\Editor\Binaries\ripgrep\x86_64\rg.exe exists: True
+[INFO] Checking for dependencies in: C:\Users\musev\Downloads\BachelorsThesis-UnityLab-main\BachelorsThesis-UnityLab-main\VR\Packages\Coplay\Editor\Binaries
+[INFO] Executable at C:\Users\musev\Downloads\BachelorsThesis-UnityLab-main\BachelorsThesis-UnityLab-main\VR\Packages\Coplay\Editor\Binaries\ripgrep\x86_64\rg.exe exists: True
+[INFO] Dependencies installed check result: True
+[INFO] Placeholder text would be: What can I help with?
+[INFO] Loading threads state
+[INFO] Loading thread messages for thread cpl_thread_6efc68cd_e7a1_4507_9a48_75c888529d78
+[INFO] State saved successfully
+[INFO] Loading state from file, and setting to: Initialized
